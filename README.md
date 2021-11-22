@@ -21,20 +21,21 @@ Using vector art and custom vinyl, I started making custom shirts for my wardrob
 ###### Portrait of my friend:
 ![em](shirts/emmett.jpg)
 
-###### Abstract shirt for my friend:
-![film](shirts/film.jpg)
-
-###### Design I made with my friend for a concert:
-![grass](shirts/grass.jpg)
-
 ###### [Greene & Greene](https://en.wikipedia.org/wiki/Thorsen_House) inspired shirt:
 ![green](shirts/greene_n_greene.jpg)
 
-###### Portrait of 2 friends:
-![grass](shirts/panel.jpg)
+###### Design I made with my friend for a concert:
+![grass](shirts/grass.jpg)
 
 ###### Testing the limit of detail in custom vinyl:
 ![robo](shirts/robo.jpg)
 
 ###### Shirt I made for a friend:
-![robo](shirts/robo.jpg)
+![pump](shirts/pump.jpeg)
+
+###### Portrait of 2 friends:
+![grass](shirts/panel.jpg)
+
+###### Abstract shirt for my friend:
+![film](shirts/film.jpg)
+
