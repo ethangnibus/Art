@@ -9,36 +9,37 @@ https://user-images.githubusercontent.com/59241452/142789231-423f7dd1-ed53-4ede-
 
 
 ###### Post Processing 1:
-![pp1](cs_art/pp1.jpg)
+![pp1](cs_art/pp1.jpg | height=100)
 
 ###### Post Processing 2:
-![pp2](cs_art/pp2.jpg)
+![pp2](cs_art/pp2.jpg | height=100)
+
 
 
 ## SHIRTS!
 Using vector art and custom vinyl, I started making custom shirts for my wardrobe. The results follow:
 
 ###### Vector art I made for my dad:
-![dad](shirts/dad.jpg)
+![dad](shirts/dad.jpg | height=100)
 
 ###### Portrait of my friend:
-![em](shirts/emmett.jpg)
+![em](shirts/emmett.jpg | height=100)
 
 ###### [Greene & Greene](https://en.wikipedia.org/wiki/Thorsen_House) inspired shirt:
-![green](shirts/greene_n_greene.jpg)
+![green](shirts/greene_n_greene.jpg | height=100)
 
 ###### Design I made with my friend for a concert:
-![grass](shirts/grass.jpg)
+![grass](shirts/grass.jpg | height=100)
 
 ###### Testing the limit of detail in custom vinyl:
-![robo](shirts/robo.jpg)
+![robo](shirts/robo.jpg | height=100)
 
 ###### Shirt I made for a friend:
-![pump](shirts/pump.jpeg)
+![pump](shirts/pump.jpeg | height=100)
 
 ###### Portrait of 2 friends:
-![grass](shirts/panel.jpg)
+![grass](shirts/panel.jpg | height=100)
 
 ###### Abstract shirt for my friend:
-![film](shirts/film.jpg)
+![film](shirts/film.jpg | height=100)
 
