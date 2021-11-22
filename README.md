@@ -7,7 +7,7 @@ Using [The Coding Train's Kinect and Processing3 Project](https://www.youtube.co
 ###### Testing thresholding and color flow:
 
 ###### Post Processing 1:
-
+![pp1](cs_art/pp1.jpg)
 ###### Post Processing 2:
 
 
