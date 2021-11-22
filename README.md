@@ -5,7 +5,7 @@ The following are some of my favorite art projects:
 Using [The Coding Train's Kinect and Processing3 Project](https://www.youtube.com/watch?v=QmVNgdapJJM) as base, I wrote a program to capture a subject's movements and project it back on to themselves. This project got some really cool use at a local concert. Preparation for said concert is shown below:
 
 ###### Testing thresholding and color flow:
-![video](cs_art/video.mov)
+![video](cs_art/video.mp4)
 ###### Post Processing 1:
 ![pp1](cs_art/pp1.jpg)
 ###### Post Processing 2:
@@ -15,8 +15,26 @@ Using [The Coding Train's Kinect and Processing3 Project](https://www.youtube.co
 ## SHIRTS!
 Using vector art and custom vinyl, I started making custom shirts for my wardrobe. The results follow:
 
-###### Testing thresholding and color flow:
+###### Vector art I made for my dad:
+![dad](shirts/dad.jpg)
 
-###### Post Processing 1:
+###### Portrait of my friend:
+![em](shirts/emmett.jpg)
 
-###### Post Processing 2:
+###### Abstract shirt for my friend:
+![film](shirts/film.jpg)
+
+###### Design I made with my friend for a concert:
+![grass](shirts/grass.jpg)
+
+###### [Greene & Greene](https://en.wikipedia.org/wiki/Thorsen_House) inspired shirt:
+![green](shirts/greene_n_greene.jpg)
+
+###### Portrait of 2 friends:
+![grass](shirts/panel.jpg)
+
+###### Testing the limit of detail in custom vinyl:
+![robo](shirts/robo.jpg)
+
+###### Shirt I made for a friend:
+![robo](shirts/robo.jpg)
