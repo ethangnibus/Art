@@ -9,7 +9,6 @@ https://user-images.githubusercontent.com/59241452/142789231-423f7dd1-ed53-4ede-
 
 
 ###### Post Processing 1:
-![pp1](cs_art/pp1.jpg | height=100)
 <img src="cs_art/pp1.jpg" height="400">
 
 ###### Post Processing 2:
