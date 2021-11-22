@@ -9,10 +9,10 @@ https://user-images.githubusercontent.com/59241452/142789231-423f7dd1-ed53-4ede-
 
 
 ###### Post Processing 1:
-<img src="cs_art/pp1.jpg" height="400">
+<img src="cs_art/pp1.jpg" height="300">
 
 ###### Post Processing 2:
-<img src="cs_art/pp2.jpg" height="400">
+<img src="cs_art/pp2.jpg" height="300">
 
 
 
@@ -20,26 +20,26 @@ https://user-images.githubusercontent.com/59241452/142789231-423f7dd1-ed53-4ede-
 Using vector art and custom vinyl, I started making custom shirts for my wardrobe. The results follow:
 
 ###### Vector art I made for my dad:
-<img src="shirts/dad.jpg" height="400">
+<img src="shirts/dad.jpg" height="300">
 
 ###### Portrait of my friend:
-<img src="shirts/kelp.jpg" height="400">
+<img src="shirts/kelp.jpg" height="300">
 
 ###### [Greene & Greene](https://en.wikipedia.org/wiki/Thorsen_House) inspired shirt:
-<img src="shirts/greene_n_greene.jpg" height="400">
+<img src="shirts/greene_n_greene.jpg" height="300">
 
 ###### Design I made with my friend for a concert:
-<img src="shirts/grass.jpg" height="400">
+<img src="shirts/grass.jpg" height="300">
 
 ###### Testing the limit of detail in custom vinyl:
-<img src="shirts/robo.jpg" height="400">
+<img src="shirts/robo.jpg" height="300">
 
 ###### Shirt I made for a friend:
-<img src="shirts/pump.jpeg" height="400">
+<img src="shirts/pump.jpeg" height="300">
 
 ###### Portrait of 2 friends:
-<img src="shirts/panel.jpg" height="400">
+<img src="shirts/panel.jpg" height="300">
 
 ###### Abstract shirt for my friend:
-<img src="shirts/film.jpg" height="400">
+<img src="shirts/film.jpg" height="300">
 
